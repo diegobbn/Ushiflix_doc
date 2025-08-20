@@ -40,7 +40,7 @@ Une plateforme de streaming personnelle qui privilégie l'expérience utilisateu
 ![Fiches détaillées](avatar.jpg)
 *Informations complètes et présentation soignée des films*
 ![Fiches détaillées](nice-guys.jpg)
-*Informations complètes et présentation soignée des films*
+*Informations complètes et présentation soignée des séries*
 
 ### Catalogue
 ![Navigation](catalog.png)
