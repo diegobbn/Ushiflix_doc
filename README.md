@@ -61,15 +61,10 @@ Une plateforme de streaming personnelle qui privilégie l'expérience utilisateu
 - **Animation** : Studio Ghibli, Disney, et animation mondiale
 
 ### 📺 Séries
-- **Incontournables** : Breaking Bad, Avatar, The Sopranos
+- **Incontournables** : The Last Of Us, The Mandalorian, Rick et Morty
 - **Récentes** : Productions originales et séries actuelles
 - **Animation** : Anime et séries d'animation de qualité
-- **Documentaires** : Contenus éducatifs et reportages
-
-### 🎵 Bonus *(bientôt)*
-- Concerts et performances live
-- Documentaires musicaux
-- Clips et vidéos d'artistes
+- **Documentaires** : Contenus éducatifs et reportages (à venir)
 
 ## 🔐 Accès
 
@@ -77,9 +72,9 @@ Cette plateforme fonctionne sur **invitation uniquement** pour préserver la qua
 
 ### Demander l'accès
 Intéressé·e ? Contactez-moi en expliquant :
-- Qui vous êtes en quelques mots
-- Ce qui vous intéresse dans cette approche
-- Votre engagement à respecter l'esprit de partage
+- Qui vous êtes
+- Ce qui vous intéresse
+- Votre Email
 
 *Les places sont limitées pour garantir une expérience optimale à tous.*
 
@@ -124,8 +119,8 @@ L'interface s'inspire des meilleures pratiques en matière d'UX/UI, avec un acce
 
 Pour toute demande d'accès ou question :
 
-📧 **Email** : [contact]  
-🌐 **Web** : [portfolio]
+📧 **Email** : [ushiflix@gmail.com]  
+🌐 **Web** : [https://instagram.com/ushinaya]
 
 ---
 
