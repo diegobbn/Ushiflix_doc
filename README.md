@@ -33,7 +33,7 @@ Une plateforme de streaming personnelle qui privilégie l'expérience utilisateu
 ## 🖼️ Aperçu
 
 ### Accueil
-![Interface principale](images/home-interface.jpg)
+![Interface principale](home.jpg)
 *Vue d'ensemble avec collections organisées et suggestions personnalisées*
 
 ### Catalogue
