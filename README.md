@@ -29,6 +29,7 @@ Une plateforme de streaming personnelle qui privilégie l'expérience utilisateu
 - Applications mobiles natives
 - Streaming vers TV (Chromecast/AirPlay)
 - Synchronisation entre appareils
+- Disponible sur TV, PC, tablettes, mobile
 
 ## 🖼️ Aperçu
 
