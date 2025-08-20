@@ -36,17 +36,21 @@ Une plateforme de streaming personnelle qui privilégie l'expérience utilisateu
 ![Interface principale](home.jpg)
 *Vue d'ensemble avec collections organisées et suggestions personnalisées*
 
+### Détails
+![Fiches détaillées](avatar.jpg)
+*Informations complètes et présentation soignée des films*
+![Fiches détaillées](nice-guy-jpg)
+*Informations complètes et présentation soignée des films*
+
 ### Catalogue
 ![Navigation](images/movie-browser.jpg)
 *Parcours fluide du catalogue avec filtres et tri personnalisé*
 
-### Lecture
-![Lecteur](images/player-view.jpg)
-*Expérience de visionnage immersive avec contrôles intuitifs*
+### Mobile
+![Lecteur](phone.jpg)
+*Expérience de visionnage immersive sur mobile*
 
-### Détails
-![Fiches détaillées](images/detail-page.jpg)
-*Informations complètes et présentation soignée du contenu*
+
 
 ## 🎯 Collections
 
