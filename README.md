@@ -43,7 +43,7 @@ Une plateforme de streaming personnelle qui privilégie l'expérience utilisateu
 *Informations complètes et présentation soignée des films*
 
 ### Catalogue
-![Navigation](images/movie-browser.jpg)
+![Navigation](catalog.png)
 *Parcours fluide du catalogue avec filtres et tri personnalisé*
 
 ### Mobile
