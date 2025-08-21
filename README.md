@@ -47,6 +47,10 @@ Une plateforme de streaming personnelle qui privilégie l'expérience utilisateu
 ![Navigation](catalog.png)
 *Parcours fluide du catalogue avec filtres et tri personnalisé*
 
+### Lecteur vidéo
+![Navigation](player.jpg)
+*Interface du lecteur non invasive et immersive*
+
 ### Mobile
 ![Lecteur](phone.jpg)
 *Expérience de visionnage immersive sur mobile*
