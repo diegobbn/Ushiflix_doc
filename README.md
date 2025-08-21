@@ -77,7 +77,8 @@ Intéressé·e ? Contactez-moi en expliquant :
 - Ce qui vous intéresse
 - Votre Email
 
-Email de contect [ushiflix@gmail.com] 
+Email de contact [ushiflix@gmail.com] 
+
 *Les places sont limitées pour garantir une expérience optimale à tous.*
 
 ## 🤝 Philosophie
