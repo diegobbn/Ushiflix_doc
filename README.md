@@ -34,21 +34,22 @@ Une plateforme de streaming personnelle qui privilégie l'expérience utilisateu
 ## 🖼️ Aperçu
 
 ### Accueil
-![Interface principale](home.jpg)
+![Interface principale](1.png)
 *Vue d'ensemble avec collections organisées et suggestions personnalisées*
+![Page de recherche](2.png)
 
 ### Détails
-![Fiches détaillées](avatar.jpg)
+![Fiches détaillées](4.png)
 *Informations complètes et présentation soignée des films*
-![Fiches détaillées](nice-guys.jpg)
+![Fiches détaillées](6.png)
 *Informations complètes et présentation soignée des séries*
 
 ### Catalogue
-![Navigation](catalog.png)
+![Navigation](3.png)
 *Parcours fluide du catalogue avec filtres et tri personnalisé*
 
 ### Lecteur vidéo
-![Navigation](player.jpg)
+![Navigation](9.png)
 *Interface du lecteur non invasive et immersive*
 
 ### Mobile
