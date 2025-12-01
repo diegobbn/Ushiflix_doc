@@ -121,7 +121,7 @@ L'interface s'inspire des meilleures pratiques en matière d'UX/UI, avec un acce
 - **Esthétique** : Cohérence visuelle et attention aux détails
 - **Performance** : Fluidité et temps de réponse optimisés
 
-*Thème basé sur [ZestyTheme](https://github.com/stpnwf/ZestyTheme) avec adaptations personnelles*
+*Thème basé sur [ElegantFin v25.11.25](https://github.com/lscambo13/ElegantFin) avec adaptations personnelles*
 
 ## 💬 Contact
 
